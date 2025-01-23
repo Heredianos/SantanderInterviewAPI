@@ -13,7 +13,7 @@ This project is a RESTful API developed with ASP.NET Core to retrieve and displa
 ## HOW TO USE
 1. Clone the repository
    ```
-   git clone <url-del-repositorio>
+   git clone https://github.com/Heredianos/SantanderInterviewAPI
 2. Go to the root
    ``` 
    cd HackerNewsAPI
